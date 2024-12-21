@@ -1,0 +1,108 @@
+.facebook{
+    font-size: 70px;
+    text-align: justify;
+    text-align: center;
+}
+.parágrafo{
+    text-align: justify;
+    text-align: center;
+    margin: 250px left;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{text-align: justify;
+    text-align: center;
+}
+.parágraf{
+    text-align: justify;
+    color: rgb(26, 175, 221);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding: 50px;
+    text-align: center;
+    text-align: justify;
+}
+h1{
+    color: blue;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu li{
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.butao{
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+    background: #1d2834;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 1000px;
+    color: #000;
+}
+.btn:hover{
+    background: transparent;
+    color: #000000;
+    box-shadow: 0 0 60px rgb(255, 255, 255);
+    cursor: pointer;
+    border: 2px solid #050c0b;
+}
+.password{
+    border-radius: 100px;
+    border: none;
+    width: 10px;
+    height: 5px;
+}
+.text{
+    height: 100px;
+    width: 20px;
+}
+
+header{
+    
+    padding: 10px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.menu, ul{
+    list-style: none;
+}
+.menu, li{
+    display: inline;
+}
+.youtube{
+    border-radius: 8px;
+    color: blanchedalmond;
+    background-color: red;
+    border: 1px solid red;
+    align-items: center;
+    cursor: pointer;
+    place-items: center;
+}
+.input{
+    border-radius: 20px #08ff ;
+    color: #000;
+    background-color: white;
+}
+.Instagram{
+    border-radius: 8px;
+    font-size: 12px;
+    background: linear-gradient(to left, #3494e6, #ec6ead) ;
+    border: 1px #08ff;
+    color: white;
+    cursor: pointer;
+}
